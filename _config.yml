@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: "Markus Fleischhacker"
+title_separator: "|"
 email: "markus.fleischhacker28@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -68,6 +69,10 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/mfl28"
+
+tag_archive:
+  type: liquid
+  path: /tags/
 
 defaults:
   # _posts
