@@ -40,12 +40,19 @@ A multi-platform (available on Linux, Mac and Windows) desktop image annotation 
     <img src="https://raw.githubusercontent.com/prabhuomkar/pytorch-cpp/master/images/pytorch_cpp.png" height= "320" width="320" align="center"/>  
 </p>
 (*in collaboration with [Omkar Prabhu](https://github.com/prabhuomkar)*)   
-C++ implementations of Machine- and Deep Learning tutorials for reasearchers. In detail, I implemented the intermediate and advanced tutorials and created the CMake build system generation.
+C++ implementations of Machine- and Deep Learning tutorials for reasearchers. In detail, I implemented the intermediate and advanced tutorials and created the CMake build system generation. The tutorials can be built and run locally on Windows, Linux and MacOs. The build script will automatically download the correct libtorch version and all necessary datasets to make it easy to get started. It is also possible to run the tutorials directly through a prepared Jupyter Notebook on Google Colab.
 
 **Used Technology**
-* C++ and PyTorch C++ API (Libtorch)
+* C++ and [PyTorch](https://pytorch.org/) C++ API (Libtorch)
 * CMake build system generation
 * Travis CI
+
+[Open in Google Colab](https://colab.research.google.com/github/prabhuomkar/pytorch-cpp/blob/master/notebooks/pytorch_cpp_colab_notebook.ipynb){: .btn .btn--info}
+
+### Example from advanced tutorials: Image Captioning
+This tutorial shows how to create a model that generates textual descriptions of images. As training and testing dataset the [Flickr8K](https://github.com/jbrownlee/Datasets/releases/tag/Flickr8k) images are used. The model archicture is an encooder-decoder network incorporating visual attention as described in the [Show, Attend and Tell](https://arxiv.org/abs/1502.03044) paper. The attention masks are visualized as an overlay on the image so it is possible to see where the model "looks". The tutorial executable accepts many arguments that allow the user to customize the model architecture and experiment with different values for hyper-parameters.
+
+[Code](https://github.com/prabhuomkar/pytorch-cpp/tree/master/tutorials/advanced/image_captioning){: .btn .btn--primary}
 
 <hr style="height:3px;color:black;background-color:black">
 
@@ -84,3 +91,4 @@ A notebook showing how to train a classifier to identify specific humpback whale
 * Resnet model 
 * FastAI deeplearning library
 * Oversampling to counter low number of samples for most classes
+
