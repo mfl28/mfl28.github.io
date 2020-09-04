@@ -39,7 +39,8 @@ C++ implementations of Machine- and Deep Learning tutorials for reasearchers. In
 
 **Used Technology**
 * C++ and [PyTorch](https://pytorch.org/) C++ API (Libtorch)
-* CMake build system generation
+* CMake
+* Google Colab
 * Travis CI
 
 [Open in Google Colab](https://colab.research.google.com/github/prabhuomkar/pytorch-cpp/blob/master/notebooks/pytorch_cpp_colab_notebook.ipynb){: .btn .btn--info}
@@ -51,7 +52,7 @@ This tutorial shows how to create a model that generates textual descriptions of
 
 <hr style="height:3px;color:black;background-color:black">
 
-## Machine Learning Projects [<i class="fab fa-fw fa-github"></i>](https://github.com/mfl28/MachineLearning) 
+## Machine Learning [<i class="fab fa-fw fa-github"></i>](https://github.com/mfl28/MachineLearning) 
 A non exhaustive list of my machine learning projects.
 
 **Used Technology**
@@ -67,7 +68,7 @@ A Jupyter Notebook project showing how to perform semantic segmentation in order
 
 **Used Technology**
 * U-Net (fully convolutional model architecture)
-* Rasterio, Geopandas, Shapely
+* rasterio, geopandas, shapely
 * Adversarial Validation
 * Custom trainer, loss- and metrics-recorder classes
 
@@ -97,3 +98,36 @@ An easy to use starter code for OpenGL C++ projects using modern CMake. Automati
 * OpenGL (core mode)
 * CMake
 * [Azure Devops Pipelines CI/CD](https://dev.azure.com/mfl28/opengl-cpp-starter/_build)
+
+<hr style="height:3px;color:black;background-color:black">
+
+## Courses
+### Coursera Machine Learning [<i class="fab fa-fw fa-github"></i>](https://dev.azure.com/mfl28/opengl-cpp-starter/_build)
+Python-implementations for programming exercises in Andrew Ng's excellent Machine Learning course (originally taught using Octave/Matlab).  
+
+**Used Technologies:**
+* Python - numpy, scikit-learn, matplotlib, pandas
+
+### Hack Assembler [<i class="fab fa-fw fa-github"></i>](https://github.com/mfl28/HackAssembler)
+C++-implementation of an assembler for the Hack assembly-language as defined in the [nand2tetris](https://www.nand2tetris.org/) course.
+
+**Used Technologies:**
+* Google Test Framework
+* CMake
+* [Azure Devops Pipelines CI/CD](https://dev.azure.com/mfl28/HackAssembler)
+
+### Hack VM-Translator [<i class="fab fa-fw fa-github"></i>](https://github.com/mfl28/HackVMTranslator)
+C++-implementation of a translator for the Hack-platform's virtual machine language as defined in the [nand2tetris](https://www.nand2tetris.org/) course.
+
+**Used Technologies:**
+* Google Test Framework
+* CMake
+* [Azure Devops Pipelines CI/CD](https://dev.azure.com/mfl28/JackCompiler/)
+
+### Jack Compiler [<i class="fab fa-fw fa-github"></i>](https://github.com/mfl28/JackCompiler)
+C++-implementation of a compiler for the Jack programming language as defined in the [nand2tetris](https://www.nand2tetris.org/) course.
+
+**Used Technologies:**
+* Google Test Framework
+* CMake
+* [Azure Devops Pipelines CI/CD](https://dev.azure.com/mfl28/HackVMTranslator)
