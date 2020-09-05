@@ -1,10 +1,12 @@
 ---
 title: 'Projects'
-layout: single
 permalink: /projects/
-author_profile: true
 classes: wide
 toc: true
+header:
+    overlay_image: /assets/images/logan-liu-KYBLVEtEDgc-unsplash_cropped.jpg
+    overlay_filter: 0.2
+    caption: "Photo by [Logan Liu](https://unsplash.com/@liu169) on [Unsplash](https://unsplash.com)"
 ---
 ## Bounding Box Editor [<i class="fab fa-fw fa-github"></i>](https://github.com/mfl28/BoundingBoxEditor)
 <p align="center">
@@ -35,12 +37,13 @@ A multi-platform desktop image annotation application that allows you to easily 
     <img src="https://raw.githubusercontent.com/prabhuomkar/pytorch-cpp/master/images/pytorch_cpp.png" height= "320" width="320" align="center"/>  
 </p>
 (*in collaboration with [Omkar Prabhu](https://github.com/prabhuomkar)*)   
-C++ implementations of Machine- and Deep Learning tutorials for reasearchers. In detail, I implemented the intermediate and advanced tutorials and created the CMake build system generation. The tutorials can be built and run locally on Windows, Linux and MacOs. The build script will automatically download the correct libtorch version and all necessary datasets to make it easy to get started. It is also possible to run the tutorials directly through a prepared Jupyter Notebook on Google Colab.
+C++ implementations of Machine- and Deep Learning tutorials for reasearchers. In detail, I implemented the intermediate and advanced tutorials and created the CMake build system generation and the Docker-containerized build option. The tutorials can be built and run locally on Windows, Linux and MacOs. The build script will automatically download the correct libtorch version and all necessary datasets to make it easy to get started. It is also possible to build and run the tutorials directly through a prepared Jupyter Notebook on Google Colab or [in a Docker container](https://github.com/mfl28/pytorch-cpp#using-docker).
 
 **Used Technology**
 * C++ and [PyTorch](https://pytorch.org/) C++ API (Libtorch)
 * CMake
 * Google Colab
+* Docker, docker-compose
 * Travis CI
 
 [Open in Google Colab](https://colab.research.google.com/github/prabhuomkar/pytorch-cpp/blob/master/notebooks/pytorch_cpp_colab_notebook.ipynb){: .btn .btn--info}

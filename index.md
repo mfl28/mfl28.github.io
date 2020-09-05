@@ -1,10 +1,13 @@
 ---
-title: 'Markus Fleischhacker'
+title: 'About'
 layout: single
 author_profile: true
 classes: wide
+header:
+    overlay_image: /assets/images/logan-liu-KYBLVEtEDgc-unsplash_cropped.jpg
+    overlay_filter: 0.20
+    caption: "Photo by [Logan Liu](https://unsplash.com/@liu169) on [Unsplash](https://unsplash.com)"
 ---
-# About me
 I am a graduate of a mathematics Master's program at Graz University of Technology in Austria, where I enjoyed solving 
 hard problems in the fields of numerical mathematics, mechanics and mathematical modelling. In my thesis, I worked on the analysis and C++ implementation of adaptive numerical solution methods for partial differential equations.
 
