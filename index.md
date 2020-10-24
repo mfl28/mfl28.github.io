@@ -9,7 +9,7 @@ header:
     caption: "Photo by [Logan Liu](https://unsplash.com/@liu169) on [Unsplash](https://unsplash.com)"
 ---
 I am a graduate of a mathematics Master's program at Graz University of Technology in Austria, where I enjoyed solving 
-hard problems in the fields of numerical mathematics, mechanics and mathematical modelling. In my thesis, I worked on the analysis and C++ implementation of adaptive numerical solution methods for partial differential equations.
+hard problems in the fields of numerical mathematics, mechanics and mathematical modeling. In my thesis, I worked on the analysis and C++ implementation of adaptive numerical solution methods for partial differential equations.
 
 My goal and passion is the combination of my mathematical knowledge and analytic thinking skills with modern software engineering practices and programming techniques in order to create software that is helpful to people. 
 

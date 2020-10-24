@@ -14,7 +14,7 @@ header:
     <br/>
     <img src="https://raw.githubusercontent.com/mfl28/BoundingBoxEditor/master/demo-media/logo-text.svg" height="30" width="260" align="center" alt="Bounding Box Editor logo text"/>  
 </p>
-A multi-platform desktop image annotation application that allows you to easily create ground-truth annotations for classification and segmentation models. Simply chose an image folder, create rectangular and general polygonal bounding boxes and export them in the most common formats used in object detection. You can also import existing annotations and modify them within the program.
+A multi-platform desktop image annotation application that allows you to easily create ground-truth annotations for classification and segmentation models. Simply choose an image folder, create rectangular and general polygonal bounding boxes and export them in the most common formats used in object detection. You can also import existing annotations and modify them within the program.
 {% include figure image_path="https://raw.githubusercontent.com/wiki/mfl28/BoundingBoxEditor/demo-media/polygon_drawing.gif" alt="Bounding Box Editor Demo"%}
 
 **Used Technology**
