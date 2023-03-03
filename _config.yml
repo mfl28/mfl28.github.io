@@ -58,8 +58,8 @@ plugins:
 author:
   name   : "Markus Fleischhacker"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Mathematician, Software Engineering and Machine Learning Enthusiast"
-  location : "Carinthia, Austria"
+  bio    : "Mathematician, Software Engineer and Machine Learning Enthusiast"
+  location : "Styria, Austria"
   email : "markus.fleischhacker28@gmail.com"
   linkedin : "markus-fleischhacker"
   github : "mfl28"
