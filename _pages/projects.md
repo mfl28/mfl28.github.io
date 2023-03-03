@@ -26,12 +26,7 @@ A multi-platform desktop image annotation application that allows you to easily 
 [Latest Release](https://github.com/mfl28/BoundingBoxEditor/releases/latest){: .btn .btn--info}
 [User Manual](https://github.com/mfl28/BoundingBoxEditor/wiki){: .btn .btn--primary}
 [Code](https://github.com/mfl28/BoundingBoxEditor){: .btn .btn--primary}
-<p align="center">
-<a href="https://www.jetbrains.com/?from=BoundingBoxEditor">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/JetBrains_Logo_2016.svg">
-</a>
-</p>
-<p align="center" style="font-size: 12pt">Special thanks to <a href="https://www.jetbrains.com/?from=BoundingBoxEditor"> JetBrains</a> for supporting this project with an Open Source license to their developer tools!  </p>
+
 
 
 <hr style="height:3px;color:black;background-color:black">
