@@ -17,9 +17,7 @@ title: "Markus Fleischhacker"
 title_separator: "|"
 email: "markus.fleischhacker28@gmail.com"
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Personal and project portfolio website of Markus Fleischhacker - Software Engineer.
 twitter_username: 
 github_username: "mfl28"
 minimal_mistakes_skin: default
@@ -58,7 +56,7 @@ plugins:
 author:
   name   : "Markus Fleischhacker"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Mathematician, Software Engineer and Machine Learning Enthusiast"
+  bio    : "Software Engineer | Mathematician"
   location : "Styria, Austria"
   email : "markus.fleischhacker28@gmail.com"
   linkedin : "markus-fleischhacker"
@@ -94,3 +92,5 @@ defaults:
       layout: single
       author_profile: true
 
+atom_feed:
+  hide: true
