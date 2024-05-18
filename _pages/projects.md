@@ -49,7 +49,7 @@ C++ implementations of Machine- and Deep Learning tutorials for researchers. In 
 [Code](https://github.com/mfl28/pytorch-cpp){: .btn .btn--primary}
 
 ### Example from advanced tutorials: Image Captioning
-This tutorial shows how to create a model that generates textual descriptions of images. As training and testing dataset the [Flickr8K](https://github.com/jbrownlee/Datasets/releases/tag/Flickr8k) images are used. The model archicture is an encooder-decoder network incorporating visual attention as described in the [Show, Attend and Tell](https://arxiv.org/abs/1502.03044) paper. The attention masks are visualized as an overlay on the image so it is possible to see where the model "looks". The tutorial executable accepts many arguments that allow the user to customize the model architecture and experiment with different values for hyper-parameters.
+This tutorial shows how to create a model that generates textual descriptions of images. As training and testing dataset the [Flickr8K](https://github.com/jbrownlee/Datasets/releases/tag/Flickr8k) images are used. The model architecture is an encoder-decoder network incorporating visual attention as described in the [Show, Attend and Tell](https://arxiv.org/abs/1502.03044) paper. The attention masks are visualized as an overlay on the image so it is possible to see where the model "looks". The tutorial executable accepts many arguments that allow the user to customize the model architecture and experiment with different values for hyper-parameters.
 
 [Code](https://github.com/mfl28/pytorch-cpp/tree/master/tutorials/advanced/image_captioning){: .btn .btn--primary}
 
