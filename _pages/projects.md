@@ -33,17 +33,17 @@ A multi-platform desktop image annotation application that allows you to easily 
 
 ## Pytorch Cpp [<i class="fab fa-fw fa-github"></i>](https://github.com/prabhuomkar/pytorch-cpp) 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/prabhuomkar/pytorch-cpp/master/images/pytorch_cpp.png" height= "320" width="320" align="center"/>  
+    <img src="https://raw.githubusercontent.com/prabhuomkar/pytorch-cpp/master/images/pytorch_cpp.jpg" height= "150" width="" align="center"/>  
 </p>
 (*in collaboration with [Omkar Prabhu](https://github.com/prabhuomkar)*)   
-C++ implementations of Machine- and Deep Learning tutorials for reasearchers. In detail, I implemented the intermediate and advanced tutorials and created the CMake build system generation and the Docker-containerized build option. The tutorials can be built and run locally on Windows, Linux and MacOs. The build script will automatically download the correct libtorch version and all necessary datasets to make it easy to get started. It is also possible to build and run the tutorials directly through a prepared Jupyter Notebook on Google Colab or [in a Docker container](https://github.com/mfl28/pytorch-cpp#using-docker).
+C++ implementations of Machine- and Deep Learning tutorials for researchers. In detail, I implemented the intermediate and advanced tutorials and related tools and created the CMake build system generation and the Docker-containerized build option. The tutorials can be built and run locally on Windows, Linux and MacOs. The build script will automatically download the correct Libtorch version and all necessary datasets to make it easy to get started. It is also possible to build and run the tutorials directly through a prepared Jupyter Notebook on Google Colab or [in a Docker container](https://github.com/mfl28/pytorch-cpp#using-docker).
 
 **Used Technology**
 * C++ and [PyTorch](https://pytorch.org/) C++ API (Libtorch)
 * CMake
 * Google Colab
 * Docker, docker-compose
-* Travis CI
+* github-actions
 
 [Open in Google Colab](https://colab.research.google.com/github/prabhuomkar/pytorch-cpp/blob/master/notebooks/pytorch_cpp_colab_notebook.ipynb){: .btn .btn--info}
 [Code](https://github.com/mfl28/pytorch-cpp){: .btn .btn--primary}
