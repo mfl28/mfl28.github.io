@@ -8,8 +8,9 @@ header:
     overlay_filter: 0.20
     caption: "Photo by [Logan Liu](https://unsplash.com/@liu169) on [Unsplash](https://unsplash.com)"
 ---
-# Hey, I'm Markus - a Software Engineer from Graz
-I gained experience working as a Software Engineering Team Lead at the medical AI startup [AIgnostikum](https://www.aignostikum.at/), where I developed a state-of-the-art deep-learning based software system for cancer detection in MRI images.
+# Hey, I'm Markus
+I currently work as a Software Engineer at CERN in Geneva, Switzerland.
+My previous experience includes working as a Software Engineering Team Lead at the medical AI startup [AIgnostikum](https://www.aignostikum.at/), where I developed a state-of-the-art deep-learning based software system for cancer detection in MRI images.
 
 I am a graduate of a mathematics Master's program at Graz University of Technology in Austria, where I enjoyed solving 
 hard problems in the fields of numerical mathematics, mechanics and mathematical modeling. In my thesis, I worked on the analysis and C++ implementation of adaptive numerical solution methods for partial differential equations.
