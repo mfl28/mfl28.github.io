@@ -23,4 +23,4 @@ Therefore, I am constantly expanding my knowledge by working on projects, readin
 Feel free to check out some of my open-source [projects](/projects).
 
 # Contact me
-For any inquires, reach me via email: [markus.fleischhacker28@gmail.com](mailto:markus.fleischhacker28@gmail.com)
+For any inquires, reach me via email: [markus.fleischhacker@pm.me](mailto:markus.fleischhacker@pm.me)
