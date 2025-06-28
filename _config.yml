@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Markus Fleischhacker"
 title_separator: "|"
-email: "markus.fleischhacker28@gmail.com"
+email: "markus.fleischhacker@pm.me"
 description: >- # this means to ignore newlines until "baseurl:"
   Personal and project portfolio website of Markus Fleischhacker - Software Engineer.
 twitter_username: 
@@ -58,7 +58,7 @@ author:
   avatar : "/assets/images/bio-photo.jpg"
   bio    : "Software Engineer, Mathematician"
   location : "Geneva, Switzerland"
-  email : "markus.fleischhacker28@gmail.com"
+  email : "markus.fleischhacker@pm.me"
   linkedin : "markus-fleischhacker"
   github : "mfl28"
   
